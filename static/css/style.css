@@ -21,12 +21,8 @@ body {
 	}
 }
 
-h2{
-    text-transform: uppercase;
-    background-clip: border-box;
-	-webkit-background-clip: text;
- 
-}
+
+
 
 .drop{
     width: 90px;
@@ -41,22 +37,37 @@ h2{
 }
 
 .in{
-    border-radius: 14px;
-    height: 25px;
+    border-radius: 40px;
+    height: px;
     font-size: 20px;
     text-align: center;
+
+        font-family: 'Roboto', sans-serif;
+        color: #333;
+        font-size: 1.2rem;
+        margin: 0 auto;
+     
+        background-color: rgb(255, 255, 255);
+        border: none;
+        width: 20%;
+        display: block;
+        border-bottom: 0.3rem solid transparent;
+        transition: all 0.3s;
+    
 }
 
 
 
 .button {
-    display: inline-block;
+    box-sizing: border-box;
+   
     border-radius: 20px;
-    background: linear-gradient(to right, #cea3ce 0%, #cfc5c8 100%);
+    background: linear-gradient(to right, #f8adc3 20%, #cfc5c8 100%);
     border: none;
-    color: #FFFFFF;
+    color: #251c1c;
     text-align: center;
     font-size: 20px;
+    font-weight: normal;
     padding: 20px;
     width: 200px;
     transition: all 0.5s;
@@ -150,6 +161,7 @@ h2{
   /* Set options to normal weight */
   .select-css option {
     font-weight:normal;
+  
   }
   
   /* Support for rtl text, explicit support for Arabic and Hebrew */

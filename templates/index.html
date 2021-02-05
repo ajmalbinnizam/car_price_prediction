@@ -8,6 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="../static/images/logo1.svg" type="image/x-icon">
 <link rel="stylesheet"  type="text/css"  href="../static/css/style.css"/>  
+
+
 	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Poppins" />
 </head> 
 <body>
@@ -28,8 +30,10 @@
         <form action="{{ url_for('predict')}}" method="post">
 
         
+          
+            
             <h3 class="text-light">Enter the Year when the car is purchased</h3>
-            <input class="in" name="Year" type="number " required="required">
+            <input  class="in" name="Year" type="number " required="required">
 
             <h3 class="text-light large">What is the Showroom Price?(In lakhs)</h3>
             <input class="in" name="Present_Price" required="required">
@@ -68,7 +72,7 @@
 
 
 
-        <br><br><h3>{{ prediction_text }}<h3>
+        <br><br><h1>{{ prediction_text }}<h1>
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/js/all.min.js" integrity="sha256-qM7QTJSlvtPSxVRjVWNM2OfTAz/3k5ovHOKmKXuYMO4=" crossorigin="anonymous"></script>

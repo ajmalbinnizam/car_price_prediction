@@ -41,7 +41,8 @@ body {
     border-radius: 40px;
     height: px;
     font-size: 20px;
-    text-align: center;
+  
+ text-align: center;  
 
         font-family: 'Roboto', sans-serif;
         color: #333;
@@ -110,6 +111,7 @@ body {
 
   /* class applies to select element itself, not a wrapper element */
 .select-css {
+  justify-content: center;
     text-align: center;
     font-size: 16px;
     font-family: sans-serif;
@@ -162,6 +164,7 @@ body {
   /* Set options to normal weight */
   .select-css option {
     font-weight:normal;
+    
   
   }
   

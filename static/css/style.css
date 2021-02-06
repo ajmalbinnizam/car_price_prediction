@@ -1,5 +1,6 @@
 body {
-    margin: 0;
+   
+    margin: 2rem;
     font-family: -apple-system, BlinkMacSystemFont, 
        Roboto,'Poppins', sans-serif;
     text-align: center;
@@ -182,6 +183,3 @@ body {
   }
   
   
-  body {
-    margin: 2rem;
-  }

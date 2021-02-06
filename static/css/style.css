@@ -51,7 +51,7 @@ body {
      
         background-color: rgb(255, 255, 255);
         border: none;
-        width: 20%;
+        /* width: 20%; */
         display: block;
         border-bottom: 0.3rem solid transparent;
         transition: all 0.3s;
@@ -119,7 +119,7 @@ body {
     color: #444;
     line-height: 1.3;
     padding: .6em 1.4em .5em .8em;
-    width: 20%;
+    /* width: 20%; */
  
     /* max-width: 100%;  useful when width is set to anything other than 100% */ 
     box-sizing: border-box;
@@ -183,6 +183,3 @@ body {
   
   .select-css:disabled:hover, .select-css[aria-disabled=true] {
     border-color: #aaa;
-  }
-  
-  

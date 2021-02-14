@@ -53,7 +53,7 @@ The columns in the given dataset are as follows:
 
 > [checkout more about this](https://ajmalbinnizam.github.io/#projects)
 
-> [Read documentation her](https://drive.google.com/file/d/17oZuDQeKi6dKK72vDhCAuIGR7bO60h5Z/view)
+> [Read documentation here](https://drive.google.com/file/d/17oZuDQeKi6dKK72vDhCAuIGR7bO60h5Z/view)
 
 > [visit website](https://carprice369.herokuapp.com)
 

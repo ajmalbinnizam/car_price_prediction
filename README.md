@@ -21,7 +21,7 @@ their budget, model of the car, age of the car etc., in a responsive layout and 
 heroku.com. Furthermore, the model will evaluate using test data and shows the output as
 the amount of money required to purchase the used car
 
-[![carprice](https://github.com/ajmalbinnizam/car_price_prediction/blob/master/static/images/1.png)](https://ajmalbinnizam.github.io/#projects/)
+[![carprice](https://github.com/ajmalbinnizam/car_price_prediction/blob/master/static/images/2.png)](https://ajmalbinnizam.github.io/#projects/)
 
 
 Introduction

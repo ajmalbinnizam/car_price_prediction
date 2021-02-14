@@ -7,20 +7,21 @@
 
 
 
-http://github.com - automatic!
-[GitHub](http://github.com)
 
-A second hand car price prediction has been a high-interest research area, as it requires
+
+
+<h3>A second hand car price prediction has been a high-interest research area, as it requires
 noticeable effort and knowledge of the field expert. Considerable numbers of distinct
 attributes are examined for reliable and accurate prediction. The data used for the
 prediction was collected from the kaggle.com
+  
 In our project we will build a model for predicting the price of used cars in India, by
 applying several machine learning techniques and Respective performances of different
 algorithms were then compared to find one that best suits the available data set, the final
 prediction model will be integrated with a flask app where the user can input attributes like
 their budget, model of the car, age of the car etc., in a responsive layout and hosting it in
 heroku.com. Furthermore, the model will evaluate using test data and shows the output as
-the amount of money required to purchase the used car
+the amount of money required to purchase the used car</h3>
 
 [![carprice](https://github.com/ajmalbinnizam/car_price_prediction/blob/master/static/images/2.png)](https://ajmalbinnizam.github.io/#projects/)
 
@@ -57,7 +58,8 @@ the past 10 years and it has 16 unique values
 7. seller_type:it is categorical data which is petrol, diesel, cng
 
 <a href="https://ajmalbinnizam.github.io/#projects"> checkout more about this</a>
-<a href="https://drive.google.com/file/d/17oZuDQeKi6dKK72vDhCAuIGR7bO60h5Z/view"> checkout more about this</a>
+<br>
+<a href="https://drive.google.com/file/d/17oZuDQeKi6dKK72vDhCAuIGR7bO60h5Z/view">Read documentation here this</a>
 
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 

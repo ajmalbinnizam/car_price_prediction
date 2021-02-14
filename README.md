@@ -1,4 +1,4 @@
-# car_price_prediction
+## car price 369
 
 
 
@@ -50,9 +50,10 @@ The columns in the given dataset are as follows:
 6. fuel: it is categorical data which is petrol, diesel, cng
 7. seller_type:it is categorical data which is petrol, diesel, cng
 
-<a href="https://ajmalbinnizam.github.io/#projects"> checkout more about this</a>
-<br>
-<a href="https://drive.google.com/file/d/17oZuDQeKi6dKK72vDhCAuIGR7bO60h5Z/view">Read documentation here this</a>
+
+> [checkout more about this](https://ajmalbinnizam.github.io/#projects)
+
+> [Read documentation her](https://drive.google.com/file/d/17oZuDQeKi6dKK72vDhCAuIGR7bO60h5Z/view)
 
 > [visit website](https://carprice369.herokuapp.com)
 

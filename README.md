@@ -9,7 +9,7 @@
 
 
 
-A second hand car price prediction has been a high-interest research area, as it requires
+> A second hand car price prediction has been a high-interest research area, as it requires
 noticeable effort and knowledge of the field expert. Considerable numbers of distinct
 attributes are examined for reliable and accurate prediction. The data used for the
 prediction was collected from the kaggle.com
@@ -54,8 +54,10 @@ the past 10 years and it has 16 unique values
 5. km_driven: overall km driven by the car, it has the highest unique values
 6. fuel: it is categorical data which is petrol, diesel, cng
 7. seller_type:it is categorical data which is petrol, diesel, cng
-> checkout more about this  https://ajmalbinnizam.github.io/#projects
-https://drive.google.com/file/d/17oZuDQeKi6dKK72vDhCAuIGR7bO60h5Z/view
+
+<a href="https://ajmalbinnizam.github.io/#projects"> checkout more about this</a>
+<a href="https://drive.google.com/file/d/17oZuDQeKi6dKK72vDhCAuIGR7bO60h5Z/view"> checkout more about this</a>
+
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 
 
